@@ -1,4 +1,6 @@
-Había una vez un/a intrépido/a aventurero/a llamado/a ____ (nombre del personaje). Su apariencia era ____ (descripción física detallada), con ojos brillantes y una sonrisa encantadora. Todos los días, le encantaba ____ (actividad favorita) y se deleitaba en explorar los rincones más remotos del mundo en busca de emociones y descubrimientos.
+code_ver_1.1DG
+ "Había una vez un/a intrépido/a aventurero/a llamado/a  Lucas Moy . Su apariencia era Atletica,  con ojos brillantes y una sonrisa encantadora. Todos los días, le encantaba Nadar y se deleitaba en explorar los rincones más remotos del mundo en busca de emociones y descubrimientos.
+
 
 Hasta que un día algo le sucedió, nunca pensó que enfrentaría un desafío tan grande. Mientras exploraba una antigua ruina perdida en lo profundo de la selva, ____ (nombre del personaje) se encontró con una criatura mágica. Esta criatura, con escamas brillantes y alas majestuosas, era un dragón ancestral llamado ____ (nombre del dragón).
 

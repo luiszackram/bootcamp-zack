@@ -1,25 +1,25 @@
   {
-    "category": "Cultura",
+    "category": "Cultura Mexico",
     "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
   },
   {
-    "category": "Deportes",
+    "category": "Deportes Mexico",
     "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
   },
   {
-    "category": "Arte",
+    "category": "Arte Precolombino",
     "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
   },
   {
-    "category": "Cine",
+    "category": "Cine Fantastico",
     "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
   },
   {
-    "category": "Historia",
+    "category": "Historia Universal",
     "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
   },
   {
-    "category": "Ciencia",
+    "category": "Feria de Ciencia ",
     "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
   }
 
